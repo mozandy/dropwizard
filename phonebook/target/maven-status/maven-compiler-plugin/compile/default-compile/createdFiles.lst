@@ -1,0 +1,6 @@
+com/wolflake/phonebook/resources/ContactResource.class
+com/wolflake/phonebook/representations/Contact.class
+com/wolflake/phonebook/dao/mappers/ContactMapper.class
+com/wolflake/phonebook/dao/ContactDAO.class
+com/wolflake/phonebook/App.class
+com/wolflake/phonebook/PhonebookConfiguration.class

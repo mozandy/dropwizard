@@ -1,0 +1,6 @@
+/home/awarner/dwTest/phonebook/src/main/java/com/wolflake/phonebook/App.java
+/home/awarner/dwTest/phonebook/src/main/java/com/wolflake/phonebook/representations/Contact.java
+/home/awarner/dwTest/phonebook/src/main/java/com/wolflake/phonebook/dao/mappers/ContactMapper.java
+/home/awarner/dwTest/phonebook/src/main/java/com/wolflake/phonebook/resources/ContactResource.java
+/home/awarner/dwTest/phonebook/src/main/java/com/wolflake/phonebook/dao/ContactDAO.java
+/home/awarner/dwTest/phonebook/src/main/java/com/wolflake/phonebook/PhonebookConfiguration.java
